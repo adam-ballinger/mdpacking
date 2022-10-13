@@ -7,16 +7,16 @@ Adam Ballinger
 ## Models
 
 1. Processor
-- _id: ObjectID (Unique identifier)
-- name: String (First and last name)
-- packs: Int32 (Number of career packs)
+    - _id: ObjectID (Unique identifier)
+    - name: String (First and last name)
+    - packs: Int32 (Number of career packs)
 
 2. Pack
-- _id: ObjectID
-- lpn: String
-- time: String
-- date: String
-- processor: String
+    - _id: ObjectID
+    - lpn: String
+    - time: String
+    - date: String
+    - processor: String
 
 ## Views
 

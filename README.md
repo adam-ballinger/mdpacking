@@ -21,13 +21,13 @@ Adam Ballinger
 ## Views
 
 1. Packing
- - Processors scan LPN's to upload packs to database and displays information of last scan.
+    - Processors scan LPN's to upload packs to database and displays information of last scan.
 
 2. Packs
- - Processors and supervisors view a list of packs completed.
+    - Processors and supervisors view a list of packs completed.
 
 3. Processors
- - Supervisors can view and add processors.
+    - Supervisors can view and add processors.
 
 ## Routes
 
